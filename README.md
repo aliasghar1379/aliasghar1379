@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm studying Electronic engineering <br>I'm learning python<br>I'm learning flutter <br>I'm learning new stuff<br>I'm working on a bot<br>
+I'm studying Electronic engineering <br>I'm learning python<br>I'm learning flutter <br>I'm learning new stuff<br>
 
 
 # 💻 Tech Stack:
