@@ -1,5 +1,5 @@
 # 💫 About Me:
-studying Electronic engineering <br>learning a few bunch of things meanwhile<br>
+ELECTRONIC ENGINEERING STUDENT <br>LEARNING A FEW INTERESTING THINGS MEANWHILE(LINUX,ELINUX,STM,PYTHON,FLUTTER,C++,C,PHP)e<br>
 
 
 # 💻 Tech Stack:
