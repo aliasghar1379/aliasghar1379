@@ -1,5 +1,5 @@
 # 💫 About Me:
-ELECTRONIC ENGINEERING STUDENT <br>LEARNING A FEW INTERESTING THINGS MEANWHILE(LINUX,ELINUX,STM,PYTHON,FLUTTER,C++,C,PHP)e<br>
+Electronic Engineer<br> works as an embedded software and hardware developer and is excited to work with: Linux,embedded Linux, Arm(STM),Python, Flutter,C++, C,... <br>
 
 
 # 💻 Tech Stack:
