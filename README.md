@@ -1,5 +1,5 @@
 # 💫 About Me:
-Electronic Engineer<br> works as an embedded software and hardware developer and is excited to work with: Linux,embedded Linux, Arm(STM),Python, Flutter,C++, C,... <br>
+Electronic Engineer<br> works as an embedded software and hardware developer and also excited to work with: Linux,embedded Linux, Arm(STM),Python, Flutter,C++, C,... <br>
 
 
 # 💻 Tech Stack:
