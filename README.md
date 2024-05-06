@@ -1,5 +1,5 @@
 # 👽 About Me:
-Electronics Engineer<br> works as an embedded software and hardware developer my playground : Linux,embedded Linux, Arm(STM),Python, Flutter,C++, C,... <br>
+Electronics Engineer<br> works as an embedded software and hardware developer my playground : Linux ,embedded Linux ,QT ,Arm(STM),Python , Flutter ,C++ ,C ,... <br>
 
 
 # 💻 Tech Stack:
