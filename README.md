@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1CB5E0,100:000851&height=160&section=header&text=Hello!%20I'm%20Aliasghar1379&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hello!%20I'm%20Aliasghar1379&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20Engineer%20and%20Tech%20Enthusiast&descAlignY=60&descAlign=62" alt="header"/>
 </p>
 <p align="center">
-  <a href="https://github.com/Aliasghar1379"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300C9C8&size=22&center=true&vCenter=true&width=440&height=45&lines=Electronics+Engineer;Embedded+Software+and+Hardware+Developer;Tech+Enthusiast" alt="Typing SVG"></a>
+  <a href="https://github.com/Aliasghar1379"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23B9F2FF&size=22&center=true&vCenter=true&width=500&height=45&lines=Electronics+Engineer;Embedded+Software+and+Hardware+Developer;Tech+Enthusiast;Welcome+to+My+GitHub+Universe" alt="Typing SVG"></a>
 </p>
 👾 About Me:
 
@@ -23,15 +23,15 @@
 </p>
 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aliasghar1379&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aliasghar1379&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aliasghar1379&theme=dark&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aliasghar1379&theme=radical&hide_border=true" alt="GitHub Streak">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliasghar1379&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliasghar1379&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </p>
 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aliasghar1379&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aliasghar1379&theme=matrix&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </p>
 ✍️ Random Dev Quote
 <p align="center">
@@ -39,12 +39,12 @@
 </p>
 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Aliasghar1379&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Aliasghar1379&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </p><p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Aliasghar1379&icon=5&color=1" alt="Visitor Count">
+    <img src="https://visitcount.itsvg.in/api?id=Aliasghar1379&icon=5&color=12" alt="Visitor Count">
   </a>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000851,100:1CB5E0&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
