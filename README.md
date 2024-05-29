@@ -8,7 +8,7 @@
 
     🚀 Embedded Software & Hardware Developer
     🌌 Playground: Linux, Embedded Linux, QT, ARM (STM), Python, Flutter, C++, C, and more...
-    🛠️ Constantly exploring new technologies and improving my skills
+    🛠️ Constantly exploring new technologies and improving my skills on base of iot systems
 
 💻 Tech Stack:
 <p align="center">
