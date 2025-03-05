@@ -7,7 +7,7 @@
 👾 About Me:
 
     🚀 Embedded Software & Hardware Developer
-    🌌 Playground: Linux, Embedded Linux, QT, ARM (STM), Python, Flutter, C++, C,...
+    🌌 Playground: HardWare Design, Embedded Linux, QT, ARM (STM), AVR , Python ,Bash Scripts ,Linux driver development, C++, C
     🛠️ Constantly exploring new technologies and improving my skills on base of iot systems
 
 💻 Tech Stack:
