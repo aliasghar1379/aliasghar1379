@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hello!%20This_Is%20Aliasghar&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20Engineer%20and%20Tech%20Enthusiast&descAlignY=60&descAlign=62" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hello!%20This Is%20Aliasghar&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20Engineer%20and%20Tech%20Enthusiast&descAlignY=60&descAlign=62" alt="header"/>
 </p>
 <p align="center">
   <a href="https://github.com/Aliasghar1379"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23B9F2FF&size=22&center=true&vCenter=true&width=600&height=45&lines=Electronics+Engineer;Embedded+Software+and+Hardware+Developer;Tech+Enthusiast;Welcome+to+My+GitHub+Universe" alt="Typing SVG"></a>
